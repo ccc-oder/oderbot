@@ -1,5 +1,5 @@
 ## oderBot
-Bot works on Oder Area and for Oder Society
+RoBot which is working on Oder Area and for Oder Society
 
 
 ---
